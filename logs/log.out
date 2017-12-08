@@ -1,0 +1,15 @@
+DEBUG - stopping org.spark_project.jetty.server.handler.ErrorHandler@31e4bb20
+DEBUG - stopping org.spark_project.jetty.server.handler.ErrorHandler@31e4bb20
+DEBUG - STOPPED org.spark_project.jetty.server.handler.ErrorHandler@31e4bb20
+DEBUG - stopping SparkUI{STARTED,8<=8<=200,i=8,q=0}
+DEBUG - STOPPED SparkUI{STOPPED,8<=8<=200,i=0,q=0}
+DEBUG - STOPPED org.spark_project.jetty.server.Server@2371aaca
+INFO - Stopped Spark web UI at http://192.168.37.1:4040
+INFO - MapOutputTrackerMasterEndpoint stopped!
+INFO - MemoryStore cleared
+INFO - BlockManager stopped
+INFO - BlockManagerMaster stopped
+INFO - OutputCommitCoordinator stopped!
+INFO - Successfully stopped SparkContext
+INFO - Shutdown hook called
+INFO - Deleting directory C:\Users\spoorthy\AppData\Local\Temp\spark-e823ff64-2275-4482-92b4-3352c08deb54

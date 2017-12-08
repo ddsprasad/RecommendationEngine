@@ -1,0 +1,25 @@
+DEBUG - stopping org.spark_project.jetty.server.handler.ErrorHandler@4bd1f8dd
+DEBUG - stopping org.spark_project.jetty.server.handler.ErrorHandler@4bd1f8dd
+DEBUG - STOPPED org.spark_project.jetty.server.handler.ErrorHandler@4bd1f8dd
+DEBUG - stopping SparkUI{STARTED,8<=8<=200,i=8,q=0}
+DEBUG - STOPPED SparkUI{STOPPED,8<=8<=200,i=0,q=0}
+DEBUG - STOPPED org.spark_project.jetty.server.Server@6c5945a7
+INFO - Stopped Spark web UI at http://192.168.37.1:4040
+INFO - MapOutputTrackerMasterEndpoint stopped!
+INFO - MemoryStore cleared
+INFO - BlockManager stopped
+INFO - BlockManagerMaster stopped
+INFO - OutputCommitCoordinator stopped!
+INFO - Successfully stopped SparkContext
+DEBUG - Connection[/10.1.51.42:9042-2, inFlight=0, closed=true] closing connection
+DEBUG - [/10.1.51.42:9042] Connection[/10.1.51.42:9042-2, inFlight=0, closed=true] closed, remaining = 1
+DEBUG - Shutting down
+DEBUG - Connection[/10.1.51.42:9042-1, inFlight=0, closed=true] closing connection
+DEBUG - [/10.1.51.42:9042] Connection[/10.1.51.42:9042-1, inFlight=0, closed=true] closed, remaining = 0
+DEBUG - Freed 32 thread-local buffer(s) from thread: cluster1-nio-worker-2
+DEBUG - Freed 48 thread-local buffer(s) from thread: cluster1-nio-worker-0
+INFO - Disconnected from Cassandra cluster: DFZ_Cassandra_Cluster
+DEBUG - Running shutdown hook: Clearing session cache for C* connector
+INFO - Shutdown hook called
+INFO - Successfully executed shutdown hook: Clearing session cache for C* connector
+INFO - Deleting directory C:\Users\spoorthy\AppData\Local\Temp\spark-8d132f0d-cb02-4bc2-8018-54b7ebba648d

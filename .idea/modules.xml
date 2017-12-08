@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RecommendationEngine/.idea/modules/recommendationengine.iml" filepath="$PROJECT_DIR$/../RecommendationEngine/.idea/modules/recommendationengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RecommendationEngine/.idea/modules/recommendationengine-build.iml" filepath="$PROJECT_DIR$/../RecommendationEngine/.idea/modules/recommendationengine-build.iml" />
+    </modules>
+  </component>
+</project>
